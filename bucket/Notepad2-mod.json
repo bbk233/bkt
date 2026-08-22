@@ -1,0 +1,14 @@
+{
+    "version": "4.2",
+    "description": "A fast and light-weight Notepad2-fork text editor",
+    "homepage": "https://github.com/XhmikosR/notepad2-mod",
+    "license": "BSD-3-Clause",
+    "url": "https://raw.githubusercontent.com/bbk233/res/main/apps/Notepad2-mod.7z",
+    "hash": "7996472A988793B18E96CF50BE74C9ECAF3ACC13D1083832B7A900C76767128C",
+    "shortcuts": [
+        [
+            "Notepad2.exe",
+            "Notepad2-mod"
+        ]
+    ]
+}
