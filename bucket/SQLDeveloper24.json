@@ -1,0 +1,15 @@
+{
+    "version": "24.3",
+    "description": "A graphical tool for working with SQL in Oracle databases",
+    "homepage": "https://www.oracle.com/database/sqldeveloper/",
+    "license": "Oracle Free Use License",
+    "url": "https://download.oracle.com/otn_software/java/sqldeveloper/sqldeveloper-24.3.1.347.1826-x64.zip",
+    "hash": "bc3e81177035fdee22e3c773832d2d6653a35592254790b8f6224bbc9c78e9ac",
+    "extract_dir": "sqldeveloper",
+    "shortcuts": [
+        [
+            "sqldeveloper.exe",
+            "SQL Developer"
+        ]
+    ]
+}
