@@ -1,0 +1,14 @@
+{
+    "version": "4.4",
+    "description": "Directory and file compare functions in one package",
+    "homepage": "https://www.scootersoftware.com",
+    "license": "Shareware",
+    "url": "https://raw.githubusercontent.com/bbk233/res/main/apps/BeyondCompare4.7z",
+    "hash": "98229373813435DDB1F959F70DA3B30441EC3719F32588E5A3478830EF5381AE",
+    "shortcuts": [
+        [
+            "BCompare.exe",
+            "Beyond Compare 4"
+        ]
+    ]
+}
