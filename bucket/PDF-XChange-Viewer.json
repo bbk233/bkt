@@ -1,0 +1,14 @@
+{
+    "version": "2.5",
+    "description": "A small, fast and feature-rich PDF reader/viewer",
+    "homepage": "https://www.pdf-xchange.com",
+    "license": "Freeware",
+    "url": "https://raw.githubusercontent.com/bbk233/res/main/apps/PDF-XChange-Viewer.7z",
+    "hash": "F737C4A4055E6D94E7191B42343FCB8061B13439C82666E8F3FA1E82BD3AE9DB",
+    "shortcuts": [
+        [
+            "PDFXCview.exe",
+            "PDF-XChange Viewer"
+        ]
+    ]
+}
